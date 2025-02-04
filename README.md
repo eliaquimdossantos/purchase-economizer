@@ -1,4 +1,4 @@
-# Setup e Execução do Projeto Python
+# Setup e Execução do Projeto
 
 Este guia explica como criar e ativar um ambiente virtual Python, instalar dependências e executar o script Python responsável por 
 informar melhor local de compra de produtos de acordo com histórico.
