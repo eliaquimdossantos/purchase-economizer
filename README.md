@@ -55,19 +55,7 @@ python best-purchase-location.py
 
 ---
 
-## 5. Desativar o Ambiente Virtual
-
-Quando terminar, desative o ambiente virtual com:
-
-```sh
-deactivate
-```
-
-Isso retornará seu terminal ao estado normal, fora do ambiente virtual.
-
----
-
-6. Dataset de Entrada e Saída
+5. Dataset de Entrada e Saída
 
 O script utiliza o dataset **product_history.csv** para gerar a tabela de saída **purchase_recommendations.xlsx**, que contém as recomendações geradas.
 
